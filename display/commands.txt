@@ -1,0 +1,6 @@
+help
+addFish Toto at 20x10, 20x20, RandomPathway
+addFish Tata at 56x65, 39x45, DeadPathway
+status
+delFish Tata
+log out
